@@ -1,0 +1,20 @@
+{
+  "Neuron": [
+    {
+      "Keyword": "hello hi hey",
+      "Value": "Hello! How can I help you today?"
+    },
+    {
+      "Keyword": "how are you",
+      "Value": "I am just a bot, but I am doing great. Thanks for asking!"
+    },
+    {
+      "Keyword": "your name",
+      "Value": "I am CatBot, your friendly chatbot."
+    },
+    {
+      "Keyword": "bye goodbye see you",
+      "Value": "Goodbye! Have a great day!"
+    }
+  ]
+}
